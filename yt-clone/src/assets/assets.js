@@ -5,4 +5,26 @@ import voiceSearch from "./voice-search.png";
 import notification from "./notification.png";
 import userProfile from "./user_profile.jpg";
 
-export { menu, logo, search, voiceSearch, notification, userProfile };
+import home from "./home.png";
+import explore from "./explore.png";
+import subscriprion from "./subscriprion.png";
+import library from "./library.png";
+import history from "./history.png";
+import like from "./like.png";
+import showMore from "./show-more.png";
+
+export {
+  menu,
+  logo,
+  search,
+  voiceSearch,
+  notification,
+  userProfile,
+  home,
+  explore,
+  subscriprion,
+  library,
+  history,
+  like,
+  showMore,
+};
